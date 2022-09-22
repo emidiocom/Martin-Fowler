@@ -12,3 +12,24 @@ notepade.web.app/?time7-invite
 
 https://gitpod.oi/#/
 
+
+
+
+www.gravatar.com
+
+https://drive.google.com/file/d/1CxG1kNiGTg2hMzYSMQLRDazwqSGDSSAM/view?usp=drivesdk
+
+Kanban
+https://1drv.ms/p/s!AhrUazXX1Wf4je8Xnt6jwCQzFdQsGg?e=4fLiNQ
+
+## link do discord 
+
+https://discord.gg/SsmaU3EZ
+
+
+#meets
+
+https://meet.google.com/rfi-mdgj-bav
+
+
+freecodecamp.org
