@@ -33,3 +33,12 @@ https://meet.google.com/rfi-mdgj-bav
 
 
 freecodecamp.org
+
+![38-DNS-480p_site](https://user-images.githubusercontent.com/78033319/192098268-fa2cc1ab-7daa-42d8-9006-246b66d485a4.gif)
+![giphy](https://user-images.githubusercontent.com/78033319/192098284-23ba6bc3-65ab-47b2-9e47-69766328b6a5.gif)
+![DNS](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg)
+![DNS2](https://user-images.githubusercontent.com/78033319/192099777-b58e8781-a4d5-4277-811a-113420f73a60.jpeg)
+
+[![DNS1](DNS "DNS1")](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg "DNS1")
+
+
