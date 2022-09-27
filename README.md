@@ -44,5 +44,16 @@ freecodecamp.org
 
 ![DNSVIDEOplay](https://user-images.githubusercontent.com/78033319/192444327-65b5d065-145c-4fdc-bd5f-9c4899d6008a.jpeg)
 
+Lucas Saboia Referencia SRE
 
+Linux
+
+notepadweb.app
+
+can i use .com
+
+https://developer.mozilla.org/pt-BR/
+
+
+notepad.web.app/?abraa
 
