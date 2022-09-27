@@ -41,4 +41,7 @@ freecodecamp.org
 
 [![DNS1](DNS "DNS1")](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg "DNS1")
 
+![DNSVIDEOplay](https://user-images.githubusercontent.com/78033319/192444327-65b5d065-145c-4fdc-bd5f-9c4899d6008a.jpeg)
+
+
 
