@@ -31,6 +31,7 @@ https://discord.gg/SsmaU3EZ
 
 https://meet.google.com/rfi-mdgj-bav
 
+![freecodecamp](https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png)
 
 freecodecamp.org
 
