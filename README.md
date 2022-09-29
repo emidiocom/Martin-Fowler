@@ -55,9 +55,186 @@ can i use .com
 https://developer.mozilla.org/pt-BR/
 
 
-notepad.web.app/?abraa
+https://notepade.web.app/?abraao
 
 
 
 ![GIFDevbaner](https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif)
 
+Aula 29092022
+mdn web docs = ver comandos
+
+<targe="_blank" abrir em uma nova guia
+
+Visual Studio Code
+
+https://code.org/
+
+https://www.w3schools.com/html/
+
+
+
+
+
+<!--
+
+
+29/09/2022 - [**Digital College**](https://digitalcollege.com.br/formacao-full-stack/) 
+
+
+
+
+- Student Developer Full Stack - Fortaleza - CE - Brazil [<img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="25" width="25" align="right"/>&nbsp;<br/>](https://github.com/emidiocom)
+[<img alt="GIF1" src="https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif" align="center" style="width:50%; height:auto;" />&nbsp;](https://drive.google.com/file/d/1W5M2O03fydL9Lh295aLnrCEGPNrJ8h-1/view)
+
+
+
+### Hi GitHub 👋
+
+I am Emídio Neto, independent Technology Professional
+
+- 🌎 Brazil
+- 💻 Technologo in Computer Networks
+- 📡 https://www.emcnet.com.br
+- 🛒 https://www.magazinevoce.com.br/magazinevidabyte
+
+------------
+
+
+[<img alt="DNS6" src="https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png" align="center" style="width:25%; height:auto;" />&nbsp;](https://www.freecodecamp.org/emidiocom)
+
+------------
+
+[<img alt="GIF1" src="https://vidadesuporte.com.br/wp-content/uploads/2022/08/Suporte_3020.jpg" align="center" style="width:50%; height:auto;" />&nbsp;](https://vidadesuporte.com.br)
+
+
+[<img alt="GIF1" src="https://www.cutedrop.com.br/wp-content/uploads/2013/07/johnny-castaway1.jpg" align="center" style="width:50%; height:auto;" />&nbsp;](https://www.cutedrop.com.br/2013/07/relembrando-o-naufrago-mais-querido-dos-screensavers/)
+
+
+<p><img alt="GIF1" src="https://www.cutedrop.com.br/wp-content/uploads/2013/07/johnny-castaway1.jpg" align="center" style="width:50%; height:auto;" />&nbsp;<a target="_blank" href="https://freecatphotoapp.com"></a>.</p>
+
+
+
+
+**emidiocom/emidiocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+https://markdownlivepreview.com/
+Linguaem que ajuda a estilizar um documento.
+
+
+https://www.byjusfutureschool.com/
+
+
+
+https://linktr.ee/react.js.ceara
+
+
+IDENTIFICATION DIVISION.
+PROGRAM-ID. HELLO-WORLD.
+DATA DIVISION.
+    WORKING-STORAGE SECTION.
+        77 X PIC 99.
+        77 Y PIC 99.
+        77 Z PIC 99.
+PROCEDURE DIVISION.
+    SET X TO 10.
+    SET Y TO 25.
+    ADD X Y GIVING Z.
+    DISPLAY "X + Y = "Z.
+STOP RUN.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Markdown syntax guide
+
+## Headers
+
+# This is a Heading h1
+## This is a Heading h2 
+###### This is a Heading h6
+
+## Emphasis
+
+*This text will be italic*  
+_This will also be italic_
+
+**This text will be bold**  
+__This will also be bold__
+
+_You **can** combine them_
+
+## Lists
+
+### Unordered
+
+* Item 1
+* Item 2
+* Item 2a
+* Item 2b
+
+### Ordered
+
+1. Item 1
+1. Item 2
+1. Item 3
+  1. Item 3a
+  1. Item 3b
+
+## Images
+
+![This is a alt text.](/image/sample.png "This is a sample image.")
+
+## Links
+
+You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
+
+## Blockquotes
+
+> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
+>
+>> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+
+## Tables
+
+| Left columns  | Right columns |
+| ------------- |:-------------:|
+| left foo      | right foo     |
+| left bar      | right bar     |
+| left baz      | right baz     |
+
+## Blocks of code
+
+```
+let message = 'Hello world';
+alert(message);
+```
+
+## Inline code
+
+This web site is using `markedjs/marked`.
+
+
+-->
