@@ -57,3 +57,7 @@ https://developer.mozilla.org/pt-BR/
 
 notepad.web.app/?abraa
 
+
+
+![GIFDevbaner](https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif)
+
