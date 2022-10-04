@@ -72,8 +72,12 @@ https://code.org/
 
 https://www.w3schools.com/html/
 
+Aula 04102022
+Empresa do Abraao Beakyn
 
+O que é inteligência? Issac Asimov
 
+<meter> tag
 
 
 <!--
