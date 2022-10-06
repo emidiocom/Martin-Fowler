@@ -79,6 +79,30 @@ O que é inteligência? Issac Asimov
 
 <meter> tag
 
+Aula 06102022
+
+
+https://abraaoalves.github.io/photo-cat-app
+
+https://abraaoalves.github.io/caraacara
+
+https://pages.github.com/
+
+
+https://gitpod.io/#/    ---> atalho para o Gitpod.io       
+
+https://gitpod.io/#/https://github.com/emidiocom/CatPhoApp
+
+
+Ctrl+Sfhit+V Atalho do prev para Markdown
+
+
+glaucia86.github.io
+
+https://emidiocom.github.io/CatPhoApp
+
+https://www.cloudflare.com/pt-br/plans/zero-trust-services/#overview
+
 
 <!--
 
