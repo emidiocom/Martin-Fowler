@@ -124,6 +124,23 @@ https://www.cloudflare.com/pt-br/plans/zero-trust-services/#overview
 
 
 
+
+Aula 11102022
+
+www.pexels.com   Para colocar imagens no site
+
+html lang brasil
+
+stack overflow
+
+
+'''suggestion
+<html lang="pt-BR">
+'''
+
+Não esquecer de colocar no comentario o @ e nome do usuario
+
+landpage para navegar na mesma pagina
 ### Hi GitHub 👋
 
 I am Emídio Neto, independent Technology Professional
