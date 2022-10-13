@@ -1,5 +1,32 @@
 # Martin-Fowler
 
+Aula 13102022
+
+
+---githistory.xyz---
+
+https://emidiocom.github.io/mypage/
+
+
+https://github.githistory.xyz/emidiocom/mypage
+
+mdn lan brazilian
+
+<link href="styles.css" rel="stylesheet"/> *** Vai ser o primeiro a carregar.
+
+tera vista filmes
+
+
+
+web.dev / measure
+
+vitormalencar
+cjpatolio
+luis felipe sousa
+matheus albuquerque
+
+wsl no wind
+
 
 Aula 20092022
 
