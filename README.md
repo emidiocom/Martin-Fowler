@@ -308,7 +308,8 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 
 ```
 let message = 'Hello world';
-alert(message);
+alert(message);![wallpaperflare-cropped1](https://user-images.githubusercontent.com/78033319/195842014-f746a9a8-e9b2-4cee-a49d-3446cd4557a6.jpg)
+
 ```
 
 ## Inline code
