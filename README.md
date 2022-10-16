@@ -70,6 +70,9 @@ https://emidiocom.github.io/CatPhoApp
 
 https://www.cloudflare.com/pt-br/plans/zero-trust-services/#overview
 
+universo narrado
+fabio akita
+
 <hr>
 
 ## Aula 04102022
