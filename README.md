@@ -1,12 +1,11 @@
-# Martin-Fowler
+# Digital Collage Aulas Turma Full Stack 07
+<hr>
 
-Aula 13102022
-
+## Aula 13102022
 
 ---githistory.xyz---
 
 https://emidiocom.github.io/mypage/
-
 
 https://github.githistory.xyz/emidiocom/mypage
 
@@ -15,8 +14,6 @@ mdn lan brazilian
 <link href="styles.css" rel="stylesheet"/> *** Vai ser o primeiro a carregar.
 
 tera vista filmes
-
-
 
 web.dev / measure
 
@@ -27,86 +24,29 @@ matheus albuquerque
 
 wsl no wind
 
+<hr>
 
-Aula 20092022
+## Aula 11102022
 
-https://www.gohorsecertification.com.br/
+www.pexels.com   Para colocar imagens no site
 
-https://scrumdefinitivo.com.br/
+html lang brasil
 
-https://trello.com/invite/time7112/3d8d221272ffbc53006a285040f35874
-notepade.web.app/?time7-invite
-
-https://gitpod.oi/#/
+stack overflow
 
 
+'''suggestion
+<html lang="pt-BR">
+'''
+
+Não esquecer de colocar no comentario o @ e nome do usuario
+
+landpage para navegar na mesma pagina
+
+<hr>
 
 
-www.gravatar.com
-
-https://drive.google.com/file/d/1CxG1kNiGTg2hMzYSMQLRDazwqSGDSSAM/view?usp=drivesdk
-
-Kanban
-https://1drv.ms/p/s!AhrUazXX1Wf4je8Xnt6jwCQzFdQsGg?e=4fLiNQ
-
-## link do discord 
-
-https://discord.gg/SsmaU3EZ
-
-
-#meets
-
-https://meet.google.com/rfi-mdgj-bav
-
-![freecodecamp](https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png)
-
-freecodecamp.org
-
-![38-DNS-480p_site](https://user-images.githubusercontent.com/78033319/192098268-fa2cc1ab-7daa-42d8-9006-246b66d485a4.gif)
-![giphy](https://user-images.githubusercontent.com/78033319/192098284-23ba6bc3-65ab-47b2-9e47-69766328b6a5.gif)
-![DNS](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg)
-![DNS2](https://user-images.githubusercontent.com/78033319/192099777-b58e8781-a4d5-4277-811a-113420f73a60.jpeg)
-
-[![DNS1](DNS "DNS1")](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg "DNS1")
-
-![DNSVIDEOplay](https://user-images.githubusercontent.com/78033319/192444327-65b5d065-145c-4fdc-bd5f-9c4899d6008a.jpeg)
-
-Lucas Saboia Referencia SRE
-
-Linux
-
-notepadweb.app
-
-can i use .com
-
-https://developer.mozilla.org/pt-BR/
-
-
-https://notepade.web.app/?abraao
-
-
-
-![GIFDevbaner](https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif)
-
-Aula 29092022
-mdn web docs = ver comandos
-
-<targe="_blank" abrir em uma nova guia
-
-Visual Studio Code
-
-https://code.org/
-
-https://www.w3schools.com/html/
-
-Aula 04102022
-Empresa do Abraao Beakyn
-
-O que é inteligência? Issac Asimov
-
-<meter> tag
-
-Aula 06102022
+## Aula 06102022
 
 
 https://abraaoalves.github.io/photo-cat-app
@@ -130,6 +70,97 @@ https://emidiocom.github.io/CatPhoApp
 
 https://www.cloudflare.com/pt-br/plans/zero-trust-services/#overview
 
+<hr>
+
+## Aula 04102022
+Empresa do Abraao Beakyn
+
+O que é inteligência? Issac Asimov
+
+< mete r > tag
+
+<hr>
+
+
+## Aula 29092022
+mdn web docs = ver comandos
+
+< targe = "_blank" abrir em uma nova guia ></targe>
+
+Visual Studio Code
+
+https://code.org/
+
+https://www.w3schools.com/html/
+
+<hr>
+
+## Aula 27092022
+
+Lucas Saboia Referencia SRE
+
+Linux
+
+notepadweb.app
+
+can i use .com
+
+https://developer.mozilla.org/pt-BR/
+
+
+https://notepade.web.app/?abraao
+
+<hr>
+
+## Aula 22092022
+
+https://gitpod.oi/#/
+
+<hr>
+
+## Aula 20092022
+
+https://www.gohorsecertification.com.br/
+
+https://scrumdefinitivo.com.br/
+
+https://trello.com/invite/time7112/3d8d221272ffbc53006a285040f35874
+notepade.web.app/?time7-invite
+
+
+
+www.gravatar.com
+
+https://drive.google.com/file/d/1CxG1kNiGTg2hMzYSMQLRDazwqSGDSSAM/view?usp=drivesdk
+
+Kanban
+https://1drv.ms/p/s!AhrUazXX1Wf4je8Xnt6jwCQzFdQsGg?e=4fLiNQ
+
+link do discord 
+https://discord.gg/SsmaU3EZ
+
+meets
+https://meet.google.com/rfi-mdgj-bav
+
+freecodecamp.org
+
+<hr>
+
+
+
+<!--
+![GIFDevbaner](https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif) -->
+
+
+
+<hr>
+
+
+<hr>
+
+
+
+
 
 <!--
 
@@ -149,25 +180,14 @@ https://www.cloudflare.com/pt-br/plans/zero-trust-services/#overview
 - Student Developer Full Stack - Fortaleza - CE - Brazil [<img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="25" width="25" align="right"/>&nbsp;<br/>](https://github.com/emidiocom)
 [<img alt="GIF1" src="https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif" align="center" style="width:50%; height:auto;" />&nbsp;](https://drive.google.com/file/d/1W5M2O03fydL9Lh295aLnrCEGPNrJ8h-1/view)
 
+-->
+<hr>
 
 
 
-Aula 11102022
-
-www.pexels.com   Para colocar imagens no site
-
-html lang brasil
-
-stack overflow
 
 
-'''suggestion
-<html lang="pt-BR">
-'''
-
-Não esquecer de colocar no comentario o @ e nome do usuario
-
-landpage para navegar na mesma pagina
+<!--
 ### Hi GitHub 👋
 
 I am Emídio Neto, independent Technology Professional
@@ -207,7 +227,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 https://markdownlivepreview.com/
 Linguaem que ajuda a estilizar um documento.
 
@@ -218,6 +238,8 @@ https://www.byjusfutureschool.com/
 
 https://linktr.ee/react.js.ceara
 
+
+<!--
 
 IDENTIFICATION DIVISION.
 PROGRAM-ID. HELLO-WORLD.
@@ -318,5 +340,20 @@ alert(message);
 
 This web site is using `markedjs/marked`.
 
+
+-->
+<!--
+![freecodecamp](https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png) -->
+
+<!--
+
+![38-DNS-480p_site](https://user-images.githubusercontent.com/78033319/192098268-fa2cc1ab-7daa-42d8-9006-246b66d485a4.gif)
+![giphy](https://user-images.githubusercontent.com/78033319/192098284-23ba6bc3-65ab-47b2-9e47-69766328b6a5.gif)
+![DNS](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg)
+![DNS2](https://user-images.githubusercontent.com/78033319/192099777-b58e8781-a4d5-4277-811a-113420f73a60.jpeg)
+
+[![DNS1](DNS "DNS1")](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg "DNS1")
+
+![DNSVIDEOplay](https://user-images.githubusercontent.com/78033319/192444327-65b5d065-145c-4fdc-bd5f-9c4899d6008a.jpeg)
 
 -->
