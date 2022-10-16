@@ -1,362 +1,77 @@
-# Digital Collage Aulas Turma Full Stack 07
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Martin Fowler</title>
+    
+</head>
+
+<body background="https://agilemanifesto.org/background.jpg">
+    <p style="margin-top: 1px; font-size: small; text-align: center;">Projeto Martin Fowler - 20/09/2022 - <a href="https://digitalcollege.com.br/formacao-full-stack/" target="_blank">Digital College</a> - Student Developer Full Stack - Fortaleza - CE - Brazil</p>
 <hr>
-
-## Aula 13102022
-
----githistory.xyz---
-
-https://emidiocom.github.io/mypage/
-
-https://github.githistory.xyz/emidiocom/mypage
-
-mdn lan brazilian
-
-<link href="styles.css" rel="stylesheet"/> *** Vai ser o primeiro a carregar.
-
-tera vista filmes
-
-web.dev / measure
-
-vitormalencar
-cjpatolio
-luis felipe sousa
-matheus albuquerque
-
-wsl no wind
-
+    </p>
+    <h1 style="font-size: 50px; text-align: center;";>Martin Fowler</h1>
+    <p style="text-align:center;"><a href="https://martinfowler.com/" class="image" title="Martin Fowler" target="_blank"><img style="text-align: ;center" alt="" height="auto" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/200px-Webysther_20150414193208_-_Martin_Fowler.jpg" decoding="async" width="200" height="267" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/300px-Webysther_20150414193208_-_Martin_Fowler.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/400px-Webysther_20150414193208_-_Martin_Fowler.jpg 2x" data-file-width="3074" data-file-height="4098"></a></p>
+    <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Webysther_20150414193208_-_Martin_Fowler.jpg/200px-Webysther_20150414193208_-_Martin_Fowler.jpg" style="text-align: center;" alt="Foto de Matin Fowler"> -->
+    <h1 style="font-size: 30px; text-align: center;";>Foi um dos Autores do "O Manifesto Ágil"</h1>
+    <font size="+1">
+        <a href="//www.martinfowler.com"><b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Martin Fowler</font></font></b></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> é o Cientista Chefe da Thoughtworks, uma empresa de consultoria e desenvolvimento de aplicativos. </font><font style="vertical-align: inherit;">Ele está envolvido há mais de uma década no uso de técnicas orientadas a objetos para sistemas de informação. </font><font style="vertical-align: inherit;">Embora seu interesse principal tenha sido o design de software, ele nunca foi capaz de evitar o processo de software e tem se interessado por abordagens que permitem que a metodologia se adapte às pessoas, e não o contrário. </font><font style="vertical-align: inherit;">Ele é o autor de Analysis Patterns, UML Distilled, Refactoring e Planning Extreme Programming.
+        </font></font></font>
+        <br>
+    <br>
+    <hr>
+    <br>
+    <p><b>Martin Fowler</b>  (<a href="/wiki/Walsall" title="Walsall">Walsall</a>, <a href="/wiki/1963" title="1963">1963</a>) é um autor conhecido na área de <a href="/wiki/Arquitetura_de_software" title="Arquitetura de software">arquitetura de software</a>, especializado em análise orientada a objetos, <a href="/wiki/UML" title="UML">UML</a>, <a href="/wiki/Padr%C3%A3o_de_projeto_de_software" title="Padrão de projeto de software">padrão de projeto de software</a> e metodologias de <a href="/wiki/Desenvolvimento_%C3%A1gil_de_software" title="Desenvolvimento ágil de software">desenvolvimento ágil de software</a>, incluindo <a href="/wiki/Programa%C3%A7%C3%A3o_extrema" title="Programação extrema">Programação extrema</a> (XP). Ele começou a trabalhar com desenvolvimento de software no início dos <a href="/wiki/Anos_80" class="mw-redirect" title="Anos 80">anos 80</a> e escreveu vários livros populares sobre desenvolvimento, alguns deles já traduzidos para português.
+    </p>
+    <p><span id="Livros_.28em_Portugu.C3.AAs.29"></span><span class="mw-headline" id="Livros_(em_Português)">Livros (em <a href="/wiki/L%C3%ADngua_portuguesa" title="Língua portuguesa">Português</a>)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Fowler&amp;veaction=edit&amp;section=1&amp;editintro=MediaWiki:Editnotice-0-BPV" class="mw-editsection-visualeditor" title="Editar secção: Livros (em Português)">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Martin_Fowler&amp;action=edit&amp;section=1&amp;editintro=MediaWiki:Editnotice-0-BPV" title="Editar secção: Livros (em Português)">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></p>
+    <ul><li><b>Refatoração para Padrões</b>, <a href="/wiki/Especial:Fontes_de_livros/8577802449" class="internal mw-magiclink-isbn">ISBN 8577802449</a>, Ed. Bookman, <a href="/wiki/2008" title="2008">2008</a></li>
+        <li><b>Padrões de Arquitetura de Aplicações Corporativas</b>, <a href="/wiki/Especial:Fontes_de_livros/8536306386" class="internal mw-magiclink-isbn">ISBN 8536306386</a>, Ed. Bookman, <a href="/wiki/2006" title="2006">2006</a></li>
+        <li><b>Refatoração: Aperfeiçoando o projeto de código existente</b>, <a href="/wiki/Especial:Fontes_de_livros/8536303956" class="internal mw-magiclink-isbn">ISBN 8536303956</a>, Ed. Bookman, <a href="/wiki/2004" title="2004">2004</a></li>
+        <li><b>UML Essencial</b>, <a href="/wiki/Especial:Fontes_de_livros/8536304545" class="internal mw-magiclink-isbn">ISBN 8536304545</a>, Ed. Bookman, <a href="/wiki/2004" title="2004">2004</a></li>
+        <li><b>NoSQL Essencial</b>,<a href="/wiki/Especial:Fontes_de_livros/9788575223383" class="internal mw-magiclink-isbn">ISBN 9788575223383</a>, Ed. Novatec, <a href="/wiki/2013" title="2013">2013</a></li></ul>
+        <p><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Martin_Fowler&amp;veaction=edit&amp;section=2&amp;editintro=MediaWiki:Editnotice-0-BPV" class="mw-editsection-visualeditor" title="Editar secção: Ligações externas">editar</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Martin_Fowler&amp;action=edit&amp;section=2&amp;editintro=MediaWiki:Editnotice-0-BPV" title="Editar secção: Ligações externas">editar código-fonte</a><span class="mw-editsection-bracket">]</span></span></p>
+        <ul><li><a rel="nofollow" class="external text" href="http://martinfowler.com/">Home page</a></li>
+            <li><a rel="nofollow" class="external text" href="http://www.thoughtworks.com/">ThoughtWorks</a>, empresa de consultoria onde ele trabalha.</li></ul>
 <hr>
-
-## Aula 11102022
-
-www.pexels.com   Para colocar imagens no site
-
-html lang brasil
-
-stack overflow
-
-
-'''suggestion
-<html lang="pt-BR">
-'''
-
-Não esquecer de colocar no comentario o @ e nome do usuario
-
-landpage para navegar na mesma pagina
-
+<br>
+            
+            <center>
+                <br><br><br><br>
+                
+                <h1>Manifesto para Desenvolvimento Ágil de Software
+                </h1>
+                <br><br><br>
+                
+                <p>
+                
+                <font size="+2">
+                Estamos descobrindo maneiras melhores de desenvolver <br>
+                software, fazendo-o nós mesmos e ajudando outros a <br>
+                fazerem o mesmo. Através deste trabalho, passamos a valorizar: <br>
+                
+                </font>
+                
+                <p>
+                <font size="+2"></font><font size="+3">Indivíduos e interações </font><font size="+2">mais que processos e ferramentas<br></font>
+                <font size="+2"></font><font size="+3">Software em funcionamento </font><font size="+2">mais que documentação abrangente<br></font>
+                <font size="+2"></font><font size="+3">Colaboração com o cliente </font><font size="+2">mais que negociação de contratos<br></font>
+                <font size="+2"></font><font size="+3">Responder a mudanças </font><font size="+2">mais que seguir um plano<br></font>
+                
+                
+                <p>
+                <font size="+2">
+                Ou seja, mesmo havendo valor nos itens à direita,<br>
+                valorizamos mais os itens à esquerda.<br>
+                
+                </font>
+                <br><br><br><br>
+            </center>
+<br>
+<br>
+<br>
 <hr>
-
-
-## Aula 06102022
-
-
-https://abraaoalves.github.io/photo-cat-app
-
-https://abraaoalves.github.io/caraacara
-
-https://pages.github.com/
-
-
-https://gitpod.io/#/    ---> atalho para o Gitpod.io       
-
-https://gitpod.io/#/https://github.com/emidiocom/CatPhoApp
-
-
-Ctrl+Sfhit+V Atalho do prev para Markdown
-
-
-glaucia86.github.io
-
-https://emidiocom.github.io/CatPhoApp
-
-https://www.cloudflare.com/pt-br/plans/zero-trust-services/#overview
-
-universo narrado
-fabio akita
-
-<hr>
-
-## Aula 04102022
-Empresa do Abraao Beakyn
-
-O que é inteligência? Issac Asimov
-
-< mete r > tag
-
-<hr>
-
-
-## Aula 29092022
-mdn web docs = ver comandos
-
-< targe = "_blank" abrir em uma nova guia ></targe>
-
-Visual Studio Code
-
-https://code.org/
-
-https://www.w3schools.com/html/
-
-<hr>
-
-## Aula 27092022
-
-Lucas Saboia Referencia SRE
-
-Linux
-
-notepadweb.app
-
-can i use .com
-
-https://developer.mozilla.org/pt-BR/
-
-
-https://notepade.web.app/?abraao
-
-<hr>
-
-## Aula 22092022
-
-https://gitpod.oi/#/
-
-<hr>
-
-## Aula 20092022
-
-https://www.gohorsecertification.com.br/
-
-https://scrumdefinitivo.com.br/
-
-https://trello.com/invite/time7112/3d8d221272ffbc53006a285040f35874
-notepade.web.app/?time7-invite
-
-
-
-www.gravatar.com
-
-https://drive.google.com/file/d/1CxG1kNiGTg2hMzYSMQLRDazwqSGDSSAM/view?usp=drivesdk
-
-Kanban
-https://1drv.ms/p/s!AhrUazXX1Wf4je8Xnt6jwCQzFdQsGg?e=4fLiNQ
-
-link do discord 
-https://discord.gg/SsmaU3EZ
-
-meets
-https://meet.google.com/rfi-mdgj-bav
-
-freecodecamp.org
-
-<hr>
-
-
-
-<!--
-![GIFDevbaner](https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif) -->
-
-
-
-<hr>
-
-
-<hr>
-
-
-
-
-
-<!--
-
-![cafemenu](https://user-images.githubusercontent.com/78033319/194925246-15544370-013b-4b9c-b744-d3c9bb36484a.jpg)
-![capphotoapp](https://user-images.githubusercontent.com/78033319/194925271-72ff25dc-ea12-4eeb-b35c-634626144025.jpg)
-![coloredmarkes](https://user-images.githubusercontent.com/78033319/194925310-7cdd7406-f56b-44a3-aaf3-69adf0587053.jpeg)
-
-
-
-
-
-29/09/2022 - [**Digital College**](https://digitalcollege.com.br/formacao-full-stack/) 
-
-
-
-
-- Student Developer Full Stack - Fortaleza - CE - Brazil [<img alt="Coding Gif" src="https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=790b76118849e7b024333f0377101b6f9d71150022128261&rid=giphy.gif&ct=g" height="25" width="25" align="right"/>&nbsp;<br/>](https://github.com/emidiocom)
-[<img alt="GIF1" src="https://user-images.githubusercontent.com/78033319/192938934-50d6b48b-81c7-485c-b4cb-5d284cd9a0a7.gif" align="center" style="width:50%; height:auto;" />&nbsp;](https://drive.google.com/file/d/1W5M2O03fydL9Lh295aLnrCEGPNrJ8h-1/view)
-
--->
-<hr>
-
-
-
-
-
-<!--
-### Hi GitHub 👋
-
-I am Emídio Neto, independent Technology Professional
-
-- 🌎 Brazil
-- 💻 Technologo in Computer Networks
-- 📡 https://www.emcnet.com.br
-- 🛒 https://www.magazinevoce.com.br/magazinevidabyte
-
-------------
-
-
-[<img alt="DNS6" src="https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png" align="center" style="width:25%; height:auto;" />&nbsp;](https://www.freecodecamp.org/emidiocom)
-
-------------
-
-[<img alt="GIF1" src="https://vidadesuporte.com.br/wp-content/uploads/2022/08/Suporte_3020.jpg" align="center" style="width:50%; height:auto;" />&nbsp;](https://vidadesuporte.com.br)
-
-
-[<img alt="GIF1" src="https://www.cutedrop.com.br/wp-content/uploads/2013/07/johnny-castaway1.jpg" align="center" style="width:50%; height:auto;" />&nbsp;](https://www.cutedrop.com.br/2013/07/relembrando-o-naufrago-mais-querido-dos-screensavers/)
-
-
-<p><img alt="GIF1" src="https://www.cutedrop.com.br/wp-content/uploads/2013/07/johnny-castaway1.jpg" align="center" style="width:50%; height:auto;" />&nbsp;<a target="_blank" href="https://freecatphotoapp.com"></a>.</p>
-
-
-
-
-**emidiocom/emidiocom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://markdownlivepreview.com/
-Linguaem que ajuda a estilizar um documento.
-
-
-https://www.byjusfutureschool.com/
-
-
-
-https://linktr.ee/react.js.ceara
-
-
-<!--
-
-IDENTIFICATION DIVISION.
-PROGRAM-ID. HELLO-WORLD.
-DATA DIVISION.
-    WORKING-STORAGE SECTION.
-        77 X PIC 99.
-        77 Y PIC 99.
-        77 Z PIC 99.
-PROCEDURE DIVISION.
-    SET X TO 10.
-    SET Y TO 25.
-    ADD X Y GIVING Z.
-    DISPLAY "X + Y = "Z.
-STOP RUN.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Markdown syntax guide
-
-## Headers
-
-# This is a Heading h1
-## This is a Heading h2 
-###### This is a Heading h6
-
-## Emphasis
-
-*This text will be italic*  
-_This will also be italic_
-
-**This text will be bold**  
-__This will also be bold__
-
-_You **can** combine them_
-
-## Lists
-
-### Unordered
-
-* Item 1
-* Item 2
-* Item 2a
-* Item 2b
-
-### Ordered
-
-1. Item 1
-1. Item 2
-1. Item 3
-  1. Item 3a
-  1. Item 3b
-
-## Images
-
-![This is a alt text.](/image/sample.png "This is a sample image.")
-
-## Links
-
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
-
-## Blockquotes
-
-> Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.
->
->> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
-
-## Tables
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
-
-## Blocks of code
-
-```
-let message = 'Hello world';
-alert(message);
-
-![wallpaperflare-cropped1](https://user-images.githubusercontent.com/78033319/195842014-f746a9a8-e9b2-4cee-a49d-3446cd4557a6.jpg)
-
-```
-
-## Inline code
-
-This web site is using `markedjs/marked`.
-
-
--->
-<!--
-![freecodecamp](https://user-images.githubusercontent.com/78033319/192530328-524b852d-5175-4e2c-a87c-5ab0b66d6adf.png) -->
-
-<!--
-
-![38-DNS-480p_site](https://user-images.githubusercontent.com/78033319/192098268-fa2cc1ab-7daa-42d8-9006-246b66d485a4.gif)
-![giphy](https://user-images.githubusercontent.com/78033319/192098284-23ba6bc3-65ab-47b2-9e47-69766328b6a5.gif)
-![DNS](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg)
-![DNS2](https://user-images.githubusercontent.com/78033319/192099777-b58e8781-a4d5-4277-811a-113420f73a60.jpeg)
-
-[![DNS1](DNS "DNS1")](https://user-images.githubusercontent.com/78033319/192099708-be2acf3f-d84f-49b1-b373-df1eb856e67b.jpeg "DNS1")
-
-![DNSVIDEOplay](https://user-images.githubusercontent.com/78033319/192444327-65b5d065-145c-4fdc-bd5f-9c4899d6008a.jpeg)
-
--->
+            <p style="margin-button: 1px; font-size: small; text-align: center;">-- Projeto By <a href="https://emidiocom.github.io/mypage/" target="_blank">Emídio Neto</a> -- *Atualizado 16102022 --</p>
+</body>
+</html>
